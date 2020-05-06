@@ -1,0 +1,7 @@
+# ninja log v5
+0	6912	0	CMakeFiles/ndt_omp.dir/src/pclomp/voxel_grid_covariance_omp.cpp.o	ca1791b31e15a067
+0	10871	0	CMakeFiles/ndt_omp.dir/src/pclomp/ndt_omp.cpp.o	1bcb1a7099e8d2aa
+0	12683	0	CMakeFiles/ndt_omp.dir/src/pclomp/gicp_omp.cpp.o	e5c010628cff6eb1
+12684	12763	0	devel/lib/libndt_omp.so	36183ac0bb41efd8
+12763	24128	0	CMakeFiles/align.dir/apps/align.cpp.o	fdd23d4b97c5b20e
+24128	32261	0	devel/lib/ndt_omp/align	73c7a1f80842f147

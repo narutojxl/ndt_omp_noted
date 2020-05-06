@@ -1,0 +1,8 @@
+prefix=/home/jxl/jxl_ws/src/ndt_omp/build/devel
+
+Name: ndt_omp
+Description: Description of ndt_omp
+Version: 0.0.0
+Cflags: -I/home/jxl/jxl_ws/src/ndt_omp/include
+Libs: -L/home/jxl/jxl_ws/src/ndt_omp/build/devel/lib -lndt_omp
+Requires: 
